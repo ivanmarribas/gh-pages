@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://ivanmarribas.github.io/gh-pages/sitemap.xml
+Disallow: /
